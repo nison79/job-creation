@@ -4,7 +4,7 @@
 
 <style>
 	nav{
-		background:#fff3ef;
+		background:#e3dfde;
 	}
 	nav > div {
 		max-width: 960px;
@@ -36,7 +36,7 @@
 	}
 
 	a.current {
-		border-bottom:3px solid #ff3e00;
+		border-bottom:3px solid #000000;
 	}
 	
 </style>
