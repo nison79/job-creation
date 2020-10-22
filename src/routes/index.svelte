@@ -11,7 +11,6 @@
 	}
 	h1{
 		font-size: 2rem;
-		font-family: 'Poppins';
 		text-transform: uppercase;
 		font-weight:500;
 		margin: 0 0 0.5rem 0;
