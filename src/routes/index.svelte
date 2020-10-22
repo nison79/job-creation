@@ -46,5 +46,5 @@
 		Jobs for Everyone
 	</h1>
 	<p>Find your next job right here</p>
-	<a href='jobs' class='btn'> View Jobs</a>
+	<a href='jobs' class='btn'> View Jobs </a>
 </div>
