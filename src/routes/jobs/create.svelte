@@ -52,5 +52,5 @@
     <input type="text" placeholder = "job title" bind:value ={title} required>
     <input type="number" placeholder = "salary" bind:value ={salary} required>
     <textarea placeholder="job details" bind:value ={details} required></textarea>
-    <button class="btn">Add New Job</button>
+    <button on:click={handleSubmit} class="btn">Add New Job</button>
 </form>
